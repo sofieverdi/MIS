@@ -1,0 +1,54 @@
+/* Sofia Verdi
+6/26/2024 */
+.leftmenu {
+    background-color: antiquewhite;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+}
+
+.BBTimgsize {
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.top {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+a {
+    color: maroon;
+}
+
+body {
+    background-image: url(../assets/images/backgroundimages.webp);
+}
+
+.selfpicture {
+    height: 600px;
+    display: block;
+    margin-left: auto;
+}
+
+.name {
+    color: black;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.resumepic {
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    margin-left: 155px;
+}

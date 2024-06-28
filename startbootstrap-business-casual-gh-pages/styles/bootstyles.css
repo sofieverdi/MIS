@@ -1,0 +1,63 @@
+/* Sofia Verdi
+6/27/2024 */
+.header {
+    top: 30px;
+    left: 30px;
+    right: 30px;
+    height: 100px;
+    background-color: #27AE60;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.common {
+    position: absolute;
+    /* color: #145A32 */
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #A9DFBF;
+}
+
+.mainbodyleft {
+    width: 40%;
+    height: 50%;
+    top: 150px;
+    left: 20px;
+    bottom: 100px;
+    padding-left: 15px;
+}
+
+.mainbodyright {
+    width: 40%;
+    top: 150px;
+    right: 20px;
+    bottom: 100px;
+    padding-right: 15px;
+}
+
+p {
+    background-color: bisque;
+    width: 400px;
+    margin-left: 50px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.footer {
+    height: 40px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    font-size: 10pt;
+    color: bisque;
+    text-align: center;
+    background-color: #27AE60;
+    position: fixed;
+}
+
+
